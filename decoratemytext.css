@@ -1,0 +1,19 @@
+body{
+    border: 2px dashed black;
+    margin: 20px;
+    padding: 20px;
+}
+#area{
+    background-image: ("https://mumstudents.org/cs472/2022-08-BL/labs/tip_calculator/calc.jpg");
+    font-size: 20px;
+    border: 2pt dotted brown;
+    ;
+}
+label{
+    font-size: 16px;
+    margin: 5px;
+    padding: 3px;
+}
+button{
+    width: 30px;
+}
